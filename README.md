@@ -3,7 +3,7 @@ The purpose of this repo is to track issues for the mobile companion app for Tow
 
 This readme is is designed to outline some of the basics of bug reporting to help best identify issues with the app.
 
-#### (You can submit issues here)[https://github.com/KrisnelC/townsville-app-issues/issues]
+#### [You can submit issues here](https://github.com/KrisnelC/townsville-app-issues/issues)
 
 Lets start with the basics.
 
@@ -40,7 +40,7 @@ Good: “Serious Bug”, “Annoyance”, “Feature Request”
 
 ### Platform
 Tell us what you are using to run the application, especially phone make and version, they are all different, and it’s important for us to know it.
-How to find your phone version:  (Android)[#android-v] / (iPhone)[https://support.apple.com/en-au/HT201685]
+How to find your phone version:  [Android](#android-v) / [iPhone](https://support.apple.com/en-au/HT201685)
 Bad: “Android”
 Good: " Phone: HTC M8, OS: 6.0 Marshmallow ”
 
