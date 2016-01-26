@@ -41,6 +41,7 @@ Good: “Serious Bug”, “Annoyance”, “Feature Request”
 ### Platform
 Tell us what you are using to run the application, especially phone make and version, they are all different, and it’s important for us to know it.
 How to find your phone version:  [Android](#android-v) / [iPhone](https://support.apple.com/en-au/HT201685)
+
 Bad: “Android”
 Good: " Phone: HTC M8, OS: 6.0 Marshmallow ”
 
@@ -52,15 +53,15 @@ Good: “Every time”, “Occasionally”, “Unable to Reproduce”
 
 ## Appendix
 ### <a name="android-v"></a> How do I know which version of Android I have?
-* Tap on the device's main Settings icon
-* Tap on "About device" (or tablet or phone)
-* Check the number under Android version
-* Your device will display the version:
-⋅⋅* Android 3.1 and higher = Honeycomb
-⋅⋅* Android 4.0 = Ice Cream Sandwich
-⋅⋅* Android 4.1/4.2/4.3 = Jelly Bean
-⋅⋅* Android 4.4 = Kitkat
-⋅⋅* Android 5.0/5.1 = Lollipop
+1. Tap on the device's main Settings icon
+2. Tap on "About device" (or tablet or phone)
+3. Check the number under Android version
+4. Your device will display the version:
+* Android 3.1 and higher = Honeycomb
+* Android 4.0 = Ice Cream Sandwich
+* Android 4.1/4.2/4.3 = Jelly Bean
+* Android 4.4 = Kitkat
+* Android 5.0/5.1 = Lollipop
 Townsville App requires Android version x.x or higer
 
 
