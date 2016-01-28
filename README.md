@@ -40,7 +40,7 @@ Good: “Serious Bug”, “Annoyance”, “Feature Request”
 
 ### Platform
 Tell us what you are using to run the application, especially phone make and version, they are all different, and it’s important for us to know it.
-How to find your phone version:  [Android](townsville-app-issues#-how-do-i-know-which-version-of-android-i-have) / [iPhone](https://support.apple.com/en-au/HT201685)
+How to find your phone version:  [Android](#-how-do-i-know-which-version-of-android-i-have) / [iPhone](https://support.apple.com/en-au/HT201685)
 
 Bad: “Android”
 Good: " Phone: HTC M8, OS: 6.0 Marshmallow ”
