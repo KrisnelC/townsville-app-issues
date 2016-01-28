@@ -32,11 +32,15 @@ Create a short title for the report, and please be clear what the issue is. “A
 **Bad:** “It crashed”, “Saw an error”, “Bug”
 **Good:** “Error 'Your session is invalid' when logging in”
 
+---
+
 ### Classification
 We need to know how serious it is, is this a feature request, minor annoyance or a full blown show-stopping nuclear-reactor-melting-down armageddon bug. Try naming your issue something like; “New feature”, “Minor Annoyance”, “Crashing Bug”, “Serious Bug” or “Minor Bug”.
 
 **Bad:** Leave it blank
 **Good:** “Serious Bug”, “Annoyance”, “Feature Request”
+
+---
 
 ### Platform
 Tell us what you are using to run the application, especially phone make and version, they are all different, and it’s important for us to know it.
@@ -44,6 +48,8 @@ How to find your phone version:  [Android](https://github.com/KrisnelC/townsvill
 
 **Bad:** “Android”
 **Good:** " Phone: HTC M8, OS: 6.0 Marshmallow ”
+
+---
 
 ###Can it be reproduced?
 Some of the most annoying bugs are intermittent and cannot be reproduced. We’d like to know up-front if we are dealing with an oddity or an every-time bug.
@@ -87,11 +93,15 @@ If you can make this bug happen again, great. That’s a huge help. Describe ste
 **Bad:** “I tried to make a post, but it did not work”
 **Good:** “From the ‘Add Post’ screen, click on the 'save' button”
 
+---
+
 ### Expected results
 Describe what you expected to happen when the bug occurred. This section is especially useful if the program does not behave as you expect it to, or if you would like to change the way the program works because it’s annoying.
 
 **Bad:** “I expected it to work”
 **Good:** “I expected my post to appear on the 'home' newsfeed.”
+
+---
 
 ### Actual results
 What did happen when the bug occurred. What was wrong, why is it wrong or if an error was thrown, what was the error.
@@ -99,15 +109,21 @@ What did happen when the bug occurred. What was wrong, why is it wrong or if an 
 **Bad:** “It did not work”
 **Good:** “Error 403: Access denied” or "I expected to see a 'saving' message and be redirected to the Newsfeed"
 
+---
+
 ### Workaround
 If you have found a way to continue using the software by working around the bug, explain it. We may fix the bug, but the workaround could be causing other problems. Many people think this should be included in a bug report, I’m not sure as it does encourage workarounds instead of bug reporting.
 
 **Bad:** “I have a workaround”
 **Good:** “If you restart the application, and go straight to 'Add Post', it works the first time.”
 
+---
+
 ### Attachments
 If you know how to make screenshots, do it. Attach a shot of the error, and of the screen just before the error and the one before that. We developers can then see what happened and what you see. If the application issues a crash log (or has any kind of log), attach that too.
 
+---
+---
 ## Appendix
 ### <a name="android-v"></a> How do I know which version of Android I have?
 1. Tap on the device's main Settings icon
