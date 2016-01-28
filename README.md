@@ -54,25 +54,25 @@ Some of the most annoying bugs are intermittent and cannot be reproduced. We’d
 ### Description
 Try to include all of the following in the description:
 
-##### Summary
+#### Summary
 A quick natural language overview of what you were trying to do when the bug appeared. Start with context, where in the application you are, then focus on the “what” you did and “what” the app did. Try to describe it like an old school news reporter would call in a story from a phone booth, just the facts.
 
 **Bad:** App does not work”
 **Good:** “Clicked on 'Save' button on ‘Add Post’ screen, but nothing was posted”
 
-##### What happened
+#### What happened
 Describe step-by-step what you were doing when the bug appeared, and why you think it’s wrong. Be specific, type out the menu names, screen titles and the full wording on buttons or links clicked. If you do the same steps, does the same error occur?
 
 **Bad:** “Blank post”
 **Good:** “I clicked on ‘Add’ from the 'Home' screen and entered 'this is my post' into the text field. 'Save' was then pressed and nothing occured”
 
-##### What’s the error
+#### What’s the error
  If an error message does come up, copy and paste the whole thing in. It makes it really easy for us to track these down.
 
 **Bad:** “There was an error, but I clicked it away and did not read it”
 **Good:** “Error 403: Access denied”
 
-##### Supporting Information
+#### Supporting Information
 If this issue happens on a specific login or on specific data or at a specific time, provide that too. Specify the record you were on if you can.
 
 **Bad:** Leave it blank
