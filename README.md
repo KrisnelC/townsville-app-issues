@@ -51,6 +51,7 @@ Some of the most annoying bugs are intermittent and cannot be reproduced. We’d
 **Bad:** Leave it blank
 **Good:** “Every time”, “Occasionally”, “Unable to Reproduce”
 
+---
 ### Description
 Try to include all of the following in the description:
 
@@ -77,6 +78,8 @@ If this issue happens on a specific login or on specific data or at a specific t
 
 **Bad:** Leave it blank
 **Good:** “This error happens whenever I try to post 'TIM IS THE SAFETY MAN'”.
+
+---
 
 ### Steps to reproduce
 If you can make this bug happen again, great. That’s a huge help. Describe step-by-step how to reproduce it, from as far back in the process as possible. And again, be specific. “I tapped on X” is different to “I double-tapped on X” is different to “I tabbed to X and pressed return”. All three trigger X, but what did you do?
